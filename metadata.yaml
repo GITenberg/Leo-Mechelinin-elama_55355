@@ -1,11 +1,16 @@
 _repo: Leo-Mechelinin-elama_55355
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rein, Karl Gabriel Thiodolf
     gutenberg_agent_id: '48298'
     url: http://www.gutenberg.org/2009/agents/48298
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55355#Leo-Mechelinin-elama
 gutenberg_issued: '2017-08-14'
 gutenberg_type: Text
 identifiers:
